@@ -14,7 +14,7 @@ git clone https://github.com/Aaryan015/Natural-language-to-SQL.git
 ```sh
 pip install streamlit openai pandas python-dotenv
 ```
-3. Create a .env file and place the API key in it.
+3. Create a ```.env``` file and place the API key in it.
 4. Place a sample database file (.db) in the same directory.
 5. Run the application:
 ```sh
