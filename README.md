@@ -8,7 +8,7 @@
 ### Setup: 🧰
 1. Clone this repository.
 ```sh
-https://github.com/Aaryan015/Natural-language-to-SQL.git
+git clone https://github.com/Aaryan015/Natural-language-to-SQL.git
 ```
 2. Install the necessary libraries
 3. Create a .env file and place the API key in it.
