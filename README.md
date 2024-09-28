@@ -6,11 +6,11 @@
 3. The list of tables in the database is available on the top in the Streamlit interface. You can use this list to query relevant information.
 
 ### Setup: 🧰
-1. Clone this repository.
+1. Clone this repository:
 ```sh
 git clone https://github.com/Aaryan015/Natural-language-to-SQL.git
 ```
-2. Install the necessary libraries
+2. Install the necessary libraries:
 ```sh
 pip install streamlit openai pandas python-dotenv
 ```
